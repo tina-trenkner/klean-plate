@@ -1,17 +1,15 @@
 import Typography from "typography"
 import lincolnTheme from "typography-theme-lincoln"
 
+lincolnTheme.bodyFontFamily = ["Montserrat", "sans-serif"]
 
-lincolnTheme.overrideThemeStyles = () => {
-    googleFonts: [
-      {
-        name: 'Montserrat',
-        styles: [
-          '700',
-         ],
-      },
-    ],
-  
+// lincolnTheme.overrideThemeStyles = () => {
+//   return {
+//     "a.gatsby-resp-image-link": {
+//       boxShadow: `none`,
+//     },
+//   }
+// }
 
 const typography = new Typography(lincolnTheme)
 

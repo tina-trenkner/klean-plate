@@ -38,11 +38,14 @@ function Bio() {
               }}
             />
             <p>
-              Written by <strong>{author}</strong> who lives and works in San
-              Francisco building useful things.
+              A family food blog written by <strong>{author}</strong>, currently based in Kuala Lumpur.
               {` `}
-              <a href={`https://twitter.com/${social.twitter}`}>
-                You should follow him on Twitter
+              <a
+              style={{
+                backgroundImage: `none`,
+              }}
+                href={`https://twitter.com/${social.twitter}`}>
+                You should follow her on Instagram.
               </a>
             </p>
           </div>
