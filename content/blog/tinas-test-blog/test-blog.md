@@ -1,7 +1,8 @@
 ---
-title: AKL => KUL 
+title: AKL => KUL
 date: "2019-05-02T22:40:32.169Z"
 description: This is a custom description for SEO and Open Graph purposes, rather than the default generated excerpt. Simply add a description field to the frontmatter.
+featuredImage: "./lily-banse-365344-unsplash.jpg"
 ---
 
 Far far away, behind the word mountains, far from the countries Vokalia and
