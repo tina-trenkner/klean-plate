@@ -1,6 +1,8 @@
 ---
 title: My Second Post!
 date: "2015-05-06T23:46:37.121Z"
+description: This is a custom description for SEO and Open Graph purposes, rather than the default generated excerpt. Simply add a description field to the frontmatter.
+featuredImage: "./ren-wang-111775-unsplash.jpg"
 ---
 
 Wow! I love blogging so much already.

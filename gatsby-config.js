@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: `KLean Plate Club`,
     author: `Tina TM`,
-    description: `A daily food blog out of Kuala Lumpur from a Kiwi-American family`,
+    description: `A Kiwi-American family's journey in Kuala Lumpur via food.`,
     siteUrl: `https://kleanplateclub.netlify.com/`,
     social: {
       twitter: `tinatrenkner`,

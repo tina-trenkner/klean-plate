@@ -1,8 +1,9 @@
 import React from "react"
 import { Link, graphql } from "gatsby"
-import Img from 'gatsby-image'
+
 
 import Bio from "../components/bio"
+import Img from 'gatsby-image'
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 import { rhythm } from "../utils/typography"
@@ -33,6 +34,7 @@ class BlogIndex extends React.Component {
                   {title}
                 </Link>
               </h3>
+
               <Img sizes={node.frontmatter.featuredImage.childImageSharp.sizes} />
               <small>{node.frontmatter.date}</small>
               <p
@@ -51,7 +53,7 @@ class BlogIndex extends React.Component {
 export default BlogIndex
 
 export const pageQuery = graphql`
-  query {
+  query IndexQuery {
     site {
       siteMetadata {
         title
@@ -65,15 +67,15 @@ export const pageQuery = graphql`
             slug
           }
           frontmatter {
-            date(formatString: "MMMM DD, YYYY")
+            date(formatString: "DD MMMM, YYYY")
             title
-            description
             featuredImage {
-                childImageSharp{
+              childImageSharp{
                     sizes(maxWidth: 630) {
                         ...GatsbyImageSharpSizes
                     }
                 }
+            }
           }
         }
       }

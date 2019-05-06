@@ -1,8 +1,9 @@
 import React from "react"
 import { Link, graphql } from "gatsby"
-import Img from 'gatsby-image'
+
 
 import Bio from "../components/bio"
+import Img from 'gatsby-image'
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 import { rhythm, scale } from "../utils/typography"
@@ -88,6 +89,13 @@ export const pageQuery = graphql`
         title
         date(formatString: "MMMM DD, YYYY")
         description
+        featuredImage {
+          childImageSharp{
+                    sizes(maxWidth: 630) {
+                        ...GatsbyImageSharpSizes
+                    }
+                }
+        }
       }
     }
   }
