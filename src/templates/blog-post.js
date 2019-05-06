@@ -1,5 +1,6 @@
 import React from "react"
 import { Link, graphql } from "gatsby"
+import Img from 'gatsby-image'
 
 import Bio from "../components/bio"
 import Layout from "../components/layout"
@@ -21,7 +22,7 @@ class BlogPostTemplate extends React.Component {
         <h1>
           {post.frontmatter.title}
         </h1>
-
+        <Img sizes={post.frontmatter.featuredImage.childImageSharp.sizes}/>
         <p
           style={{
             ...scale(-1 / 5),
