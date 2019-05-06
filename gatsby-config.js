@@ -1,11 +1,12 @@
 module.exports = {
   siteMetadata: {
-    title: `KLean Plate`,
+    title: `KLean Plate Club`,
     author: `Tina TM`,
     description: `A daily food blog out of Kuala Lumpur from a Kiwi-American family`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
+    siteUrl: `https://kleanplateclub.netlify.com/`,
     social: {
       twitter: `tinatrenkner`,
+      instagram: `tinatrenkner`,
     },
   },
   plugins: [

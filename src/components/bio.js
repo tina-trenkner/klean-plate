@@ -38,7 +38,7 @@ function Bio() {
               }}
             />
             <p>
-              A family food blog written by <strong>{author}</strong>, currently based in Kuala Lumpur.
+              A Kiwi-American family's journey in Kuala Lumpur via food. Written by <strong>{author}</strong>, currently based in Auckland, soon to be based in Kuala Lumpur.
               {` `}
               <a
               style={{
