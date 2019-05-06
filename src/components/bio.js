@@ -44,7 +44,7 @@ function Bio() {
               style={{
                 backgroundImage: `none`,
               }}
-                href={`https://twitter.com/${social.twitter}`}>
+                href={`https://instagram.com/${social.instagram}`}>
                 You should follow her on Instagram.
               </a>
             </p>
