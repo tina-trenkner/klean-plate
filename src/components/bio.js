@@ -69,6 +69,7 @@ const bioQuery = graphql`
         author
         social {
           twitter
+          instagram
         }
       }
     }
