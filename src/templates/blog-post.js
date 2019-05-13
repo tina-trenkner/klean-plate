@@ -23,17 +23,18 @@ class BlogPostTemplate extends React.Component {
         <h1>
           {post.frontmatter.title}
         </h1>
-        <Img sizes={post.frontmatter.featuredImage.childImageSharp.sizes}/>
         <p
           style={{
             ...scale(-1 / 5),
             display: `block`,
-            marginBottom: rhythm(1),
-            marginTop: rhythm(0),
+            marginBottom: rhythm(0),
+            marginTop: rhythm(-0.5),
           }}
         >
           {post.frontmatter.date}
         </p>
+        <Img sizes={post.frontmatter.featuredImage.childImageSharp.sizes}/>
+
         <div dangerouslySetInnerHTML={{ __html: post.html }} />
         <hr
           style={{

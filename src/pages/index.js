@@ -27,16 +27,16 @@ class BlogIndex extends React.Component {
             <div key={node.fields.slug}>
               <h3
                 style={{
-                  marginBottom: rhythm(1 / 4),
+                  marginBottom: rhythm(0 / 4),
                 }}
               >
                 <Link style={{ boxShadow: `none`, backgroundImage: `none`,}} to={node.fields.slug}>
                   {title}
                 </Link>
               </h3>
-
-              <Img sizes={node.frontmatter.featuredImage.childImageSharp.sizes} />
               <small>{node.frontmatter.date}</small>
+              <Img sizes={node.frontmatter.featuredImage.childImageSharp.sizes} />
+
               <p
                 dangerouslySetInnerHTML={{
                   __html: node.frontmatter.description || node.excerpt,
@@ -67,7 +67,7 @@ export const pageQuery = graphql`
             slug
           }
           frontmatter {
-            date(formatString: "DD MMMM, YYYY")
+            date(formatString: "MMMM DD, YYYY")
             title
             featuredImage {
               childImageSharp{
