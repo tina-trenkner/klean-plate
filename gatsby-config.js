@@ -3,7 +3,7 @@ module.exports = {
     title: `KLean Plate Club`,
     author: `Tina TM`,
     description: `A Kiwi-American family's journey in Kuala Lumpur via food.`,
-    siteUrl: `https://kleanplateclub.netlify.com/`,
+    siteUrl: `https://www.kleanplateclub.com/`,
     social: {
       twitter: `tinatrenkner`,
       instagram: `tinatrenkner`,
@@ -51,7 +51,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
-        //trackingId: `ADD YOUR TRACKING ID HERE`,
+        trackingId: `UA-53679613-3`,
       },
     },
     `gatsby-plugin-feed`,
