@@ -2,6 +2,7 @@ import React from "react"
 import { Link } from "gatsby"
 
 import { rhythm, scale } from "../utils/typography"
+import { FaUtensilSpoon } from "react-icons/fa"
 
 class Layout extends React.Component {
   render() {
@@ -27,7 +28,7 @@ class Layout extends React.Component {
             }}
             to={`/`}
           >
-            {title}
+           {title} <FaUtensilSpoon />
           </Link>
         </h1>
       )
@@ -48,7 +49,7 @@ class Layout extends React.Component {
             }}
             to={`/`}
           >
-            {title}
+           {title} <FaUtensilSpoon />
           </Link>
         </h3>
       )
