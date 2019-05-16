@@ -36,12 +36,14 @@ class BlogIndex extends React.Component {
               </h3>
               <small>{node.frontmatter.date}</small>
               <Img sizes={node.frontmatter.featuredImage.childImageSharp.sizes} />
-
               <p
                 dangerouslySetInnerHTML={{
                   __html: node.frontmatter.description || node.excerpt,
                 }}
               />
+              <Link style={{ boxShadow: `none`, backgroundImage: `none`, paddingTop: rhythm(0 / 4), }} to={node.fields.slug}>
+                MORE
+              </Link>
             </div>
           )
         })}

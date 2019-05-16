@@ -1,7 +1,7 @@
 ---
 title: Introduction to Klean Plate Club
 date: "2019-05-15"
-description: What is Klean Plate Club? It's a food blog, a travel blog, a baby-starting-solids blog, all focusing on our month in Kuala Lumpur.
+description: "What is Klean Plate Club? It's a food blog, a travel blog, a baby-starting-solids blog, all focusing on our month in Kuala Lumpur."
 featuredImage: "./IMG_4710.JPG"
 ---
 
