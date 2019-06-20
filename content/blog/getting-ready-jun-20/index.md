@@ -21,6 +21,6 @@ Now, if your family has a history of peanut allergy, you'd likely follow a diffe
 
 The American Academy of Pediatrics seems to suggest that if there's no family history of allergy, [there is no reason to delay introducing peanuts](https://www.aap.org/en-us/about-the-aap/aap-press-room/Pages/AAP-Clinical-Report-Highlights-Early-Introduction-of-Peanut-Based-Foods-to-Prevent-Allergies.aspx). In New Zealand, Plunket (the child well-being program) recommends that babies be introduced to smooth peanut butter [at around eight months at the earliest](https://www.plunket.org.nz/your-child/6-months-to-1-year/food-and-nutrition/babys-first-foods/).
 
- So today, we gave Baby some peanut butter on bread and observed her reaction. Luckily, she devoured pb&bread with no adverse reaction. Whew. That is one last thing to worry about, since we can't really control how street food vendors cook food (peanut oil?) and we've been looking forward to introducing Baby to tasty, well-cooked treats while abroad. So bring on the wok-fried noodles!
+ So today, we gave Baby some peanut butter on bread and observed her reaction. Luckily, she devoured pb&bread with no adverse reaction. Whew. That is one last thing to worry about, since we can't really control how street food vendors cook food (peanut oil?) and we've been looking forward to introducing Baby to tasty, well-cooked treats while abroad. So bring on the satay!
 
  Photo credit: [Ting~/flickrCC](https://www.flickr.com/photos/14770238@N07/2731533405)
