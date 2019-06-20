@@ -2,7 +2,7 @@
 title: Getting Ready for Malaysia
 date: "2019-06-20"
 description: "A family of three prepares for its month-long stint in Malaysia"
-featuredImage: "./satay-Ting~-flickrCC.JPG"
+featuredImage: "./satay-Ting-flickrCC.JPG"
 ---
 
 In seven days, we take off for KL for the month of July. There are a few housekeeping chores we'll need to do before we go: Weatherize the house for the NZ winter, throw out old food in the fridge, ask the neighbors if they can water plants and collect mail...
