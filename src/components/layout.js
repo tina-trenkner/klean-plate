@@ -31,10 +31,11 @@ class Layout extends React.Component {
            {title} <FaUtensilSpoon />
           </Link>
         </h1>
+
       )
     } else {
       header = (
-        <h1
+        <h3
           style={{
             fontFamily: `Montserrat, sans-serif`,
             marginTop: 0,
@@ -51,7 +52,7 @@ class Layout extends React.Component {
           >
            {title} <FaUtensilSpoon />
           </Link>
-        </h1>
+        </h3>
       )
     }
     return (
