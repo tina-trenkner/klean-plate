@@ -12,10 +12,9 @@ class NotFoundPage extends React.Component {
     return (
       <Layout location={this.props.location} title={siteTitle}>
         <SEO title="404: Not Found" />
-        <h1>Not all who are travel are lost</h1>
-        <p>64% of Instagram travel influencers...</p>
-        <p>But you, you are definitely lost.</p>
-        <a href="/">Go home</a>
+        <h1>Not all those who wander are lost</h1>
+        <p> or so say Tolkien and 64.23% of Instagram travel influencers...</p>
+        <p>But you, you are definitely lost. <a href="/">Let's go back home.</a></p>
       </Layout>
     )
   }
