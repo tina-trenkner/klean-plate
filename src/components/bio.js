@@ -21,7 +21,7 @@ function Bio() {
           <div
             style={{
               display: `flex`,
-              marginBottom: rhythm(2.5),
+              // marginBottom: rhythm(2.5),
             }}
           >
             <Image
@@ -44,8 +44,8 @@ function Bio() {
               style={{
                 backgroundImage: `none`,
               }}
-                href={`https://instagram.com/${social.instagram}`}>
-                You should follow her on Instagram.
+                href={`about`}>
+                Learn more about this blog.
               </a>
             </p>
           </div>

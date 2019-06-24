@@ -8,6 +8,16 @@ module.exports = {
       twitter: `tinatrenkner`,
       instagram: `tinatrenkner`,
     },
+    menuLinks:[
+      {
+       name:'home',
+        link:'/'
+      },
+      {
+         name:'about',
+         link:'/about'
+      }
+    ]
   },
   plugins: [
     {

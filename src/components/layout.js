@@ -15,7 +15,7 @@ class Layout extends React.Component {
         <h1
           style={{
             ...scale(1.5),
-            marginBottom: rhythm(1.5),
+            // marginBottom: rhythm(1.5),
             marginTop: 0,
           }}
         >
@@ -31,6 +31,7 @@ class Layout extends React.Component {
            {title} <FaUtensilSpoon />
           </Link>
         </h1>
+
       )
     } else {
       header = (
