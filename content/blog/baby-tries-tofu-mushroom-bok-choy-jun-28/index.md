@@ -1,8 +1,8 @@
 ---
-title: The flight from Auckland to KL: Baby tries tofu, mushroom, and bok choy
+title: Baby tries tofu, mushroom, and bok choy
 date: "2019-06-28"
 description: "During the flight to KL, baby steals Mom's plane food breakfast and experiences some firsts. "
-featuredImage: "./IMG_4929.JPG"
+featuredImage: "./IMG_4930.JPG"
 ---
 
 **The flight between Auckland and Kuala Lumpur with an eight month old could be pleasantly uneventful at best, and unimaginably terrible at worst.** The actuality doesn't quite fit in this duality, as my back would argue it was painful and yet there were delightful, eventful moments as well.  
@@ -21,4 +21,4 @@ Then Baby played handsy with some bok choy. Bok choy has a weird texture too, ri
 
 I don't have much love lost if she's meh on bok choy, or mushrooms for that matter.
 
-I love the fact that she went for tofu though! Tofu: such a bland, boring protein. Great in mapo tofu, kinda lame on its own. But for a youngster to grab her own piece of tofu so early in this trip... it makes me smile just because I find it so... unexpected. And because it's unexpected, that is what makes it delightful. 
+I love the fact that she went for tofu though! Tofu: such a bland, boring protein. Great in mapo tofu, kinda lame on its own. But for a youngster to grab her own piece of tofu so early in this trip... it makes me smile just because I find it so... unexpected. And because it's unexpected, that is what makes it delightful.
