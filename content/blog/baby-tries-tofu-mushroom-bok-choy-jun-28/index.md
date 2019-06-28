@@ -1,5 +1,5 @@
 ---
-title: Baby tries tofu, mushroom, and bok choy
+title: Baby Tries Tofu, Mushroom, and Bok Choy
 date: "2019-06-28"
 description: "During the flight to KL, baby steals Mom's plane food breakfast and experiences some firsts. "
 featuredImage: "./IMG_4930.JPG"
