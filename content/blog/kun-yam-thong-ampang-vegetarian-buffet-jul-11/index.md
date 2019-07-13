@@ -7,7 +7,7 @@ featuredImage: "./IMG_5040.JPG"
 
 **We probably walked by this Buddhist temple during chore runs maybe six times in the first few days.** Enough times to wonder if the temple accepts visitors. I had hoped that it would be OK to bring a baby here to have a crawl around somewhere that isn't the hotel room. During my own travels, some of my favorite moments have been visiting a house of worship and simply having some quiet time amongst the beautiful architecture.
 
-In my Googling, I learned from another travel blogger that this temple, the Kun Yam Thong Temple, served [cheap vegetarian food](https://thriftytraveller.wordpress.com/2013/01/26/kun-yam-thong-temple-jalan-ampang-kl/) at lunch.
+In my Googling, I learned from another travel blogger that this temple, the Kun Yam Thong Temple, served [cheap vegetarian food](https://thriftytraveller.wordpress.com/2013/01/26/kun-yam-thong-temple-jalan-ampang-kl/) at lunch. BUT HE NEVER ATE THERE.
 
 Too bad for that travel blogger guy. Baby and I checked it out and it was legit awesome. For anywhere from $1-$4 (NZD or USD) a plate, you can really fill up on rice, spring rolls, noodles, stews and curries, and sweets.
 
