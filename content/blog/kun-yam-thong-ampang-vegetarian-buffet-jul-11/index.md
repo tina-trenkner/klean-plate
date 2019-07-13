@@ -2,7 +2,7 @@
 title: Take Your Baby to the Buffet Behind the Buddhist Temple
 date: "2019-07-11"
 description: "Hidden toward the back of a Buddhist temple on Jalan Ampang in Kuala Lumpur is a delicious, inexpensive vegetarian buffet."
-featuredImage: "./IMG_4930.JPG"
+featuredImage: "./IMG_5040.JPG"
 ---
 
 **We probably walked by the Buddhist temple during chore runs maybe six times in the first few days.** Enough times to wonder if the temple accepts visitors. I had hoped that it would be OK to bring a baby to have a crawl around somewhere that isn't the hotel room. During my own travels, some of my favorite moments have been visiting a house of worship and simply having some quiet time amongst the beautiful architecture.
@@ -19,4 +19,4 @@ The buffet is popular with white collar workers in the towers nearby. One woman 
 
 The older Chinese ladies loved having a baby in their company, and one of them working the cash register asked me where the baby was when I returned the next day with husband in tow.
 
-This place will likely become a local for us: It's close by, inexpensive, the variety of food is great, and the ladies love the baby. All this, behind the temple. And you'd never know it if you weren't curious. 
+This place will likely become a local for us: It's close by, inexpensive, the variety of food is great, and the ladies love the baby. All this, behind the temple. And you'd never know about it if you weren't curious.
