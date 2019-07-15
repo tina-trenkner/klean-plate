@@ -44,7 +44,7 @@ function Bio() {
               style={{
                 backgroundImage: `none`,
               }}
-                href={`about`}>
+                href={`/about`}>
                 Learn more about this blog.
               </a>
             </p>

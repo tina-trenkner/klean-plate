@@ -11,6 +11,8 @@ For example, today at lunch: We went to the food court/hawker centre at Lot 10, 
 
 Now, soup dumplings have freaking hot broth inside them, so you can't just give a baby a dumpling. So through trial and error, here is the KLean Plate Club guide to feeding your child soup dumplings.
 
+![Xiao long bao at Lot 10 Hutong, Kuala Lumpur](./IMG_5087.JPG)
+
 1. Put a soup dumpling on your spoon.
 2. Bite a hole in the dumpling. Let the broth spill onto the spoon. The broth is yours.
 3. Take the dumping and tear it apart with your fingers.
@@ -22,5 +24,3 @@ Now, soup dumplings have freaking hot broth inside them, so you can't just give 
 9. Repeat steps 1-7.
 10. Despair that baby has deposited part of deconstructed soup dumpling on the floor.
 11. Save the last soup dumpling for yourself and enjoy.
-
-![Xiao long bao at Lot 10 Hutong, Kuala Lumpur](./IMG_5087.JPG)
